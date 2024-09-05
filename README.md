@@ -6,9 +6,7 @@ This repository contains a CNN with computer vision implementation for the Intel
 
 ```bash
 IntelImageClassification/
-│
-├── models/                          # Directory to save and load models
-│   └── intel_cnn_weights.pth         # Saved model weights
+│   
 │
 ├── src/
 │   ├── model.py                      # Definition of the CNN model
