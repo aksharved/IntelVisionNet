@@ -1,7 +1,10 @@
-# IntelVisionNet
+# **IntelVisionNet**
 
-This repository contains a CNN with computer vision implementation in the Intel Images dataset from Kaggle using PyTorch. The project includes data augmentation, batch normalization, and dropout for improved performance and generalization. It provides scripts for training and testing the model's performance.
+This repository contains a CNN with computer vision implementation for the Intel Images dataset from Kaggle using PyTorch. The project includes data augmentation, batch normalization, and dropout for improved performance and generalization. It provides scripts for training, testing, and evaluating the model's performance.
 
+## **Project Structure**
+
+```bash
 IntelImageClassification/
 │
 ├── models/                          # Directory to save and load models
